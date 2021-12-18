@@ -2,9 +2,10 @@
 
 - [x] [项目背景](docs/section/background.md)
 - [x] [项目启动](docs/section/initiate.md)
-- [ ] [项目规划](docs/section/plan.md)
+- [x] [项目规划](docs/section/plan.md)
 - [ ] [项目执行](docs/section/execute.md)
 - [ ] [项目监控](docs/section/monitor.md)
 - [ ] [项目收尾](docs/section/close.md)
 - [ ] [项目总结](docs/section/conclusion.md)
 - [ ] [参考文献](docs/section/reference.md)
+- [ ] [附录](docs/section/appendix.md)
