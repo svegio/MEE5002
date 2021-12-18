@@ -1,2 +1,5 @@
 # mkdocs release
 site/
+
+# sync script
+sync.sh
