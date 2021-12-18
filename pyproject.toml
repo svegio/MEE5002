@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "MEE5002"
+version = "0.1.0"
+description = "项目管理基础与实践"
+authors = ["Iydon Liang <liangiydon@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
