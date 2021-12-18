@@ -5,6 +5,12 @@ theme:
     features:
         - navigation.tabs
 
+extra_javascript:
+    - https://unpkg.com/mermaid/dist/mermaid.min.js
+
+extra_css:
+    - static/css/extra.css
+
 plugins:
     - search
     - print-site:
@@ -75,3 +81,4 @@ nav:
     - 项目收尾: 'section/close.md'
     - 项目总结: 'section/conclusion.md'
     - 参考文献: 'section/reference.md'
+    - 附录: 'section/appendix.md'

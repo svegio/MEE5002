@@ -1,7 +1,7 @@
 ![](docs/static/image/cover.jpg)
 
-- [ ] [项目背景](docs/section/background.md)
-- [ ] [项目启动](docs/section/initiate.md)
+- [x] [项目背景](docs/section/background.md)
+- [x] [项目启动](docs/section/initiate.md)
 - [ ] [项目规划](docs/section/plan.md)
 - [ ] [项目执行](docs/section/execute.md)
 - [ ] [项目监控](docs/section/monitor.md)
