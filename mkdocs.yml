@@ -1,0 +1,77 @@
+site_name: 项目管理基础与实践
+
+theme:
+    name: material
+    features:
+        - navigation.tabs
+
+plugins:
+    - search
+    - print-site:
+        add_to_navigation: true
+        print_page_title: '打印页'
+        add_table_of_contents: true
+        toc_title: '目录'
+
+markdown_extensions:
+    # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
+    - abbr
+    # https://squidfunk.github.io/mkdocs-material/reference/admonitions/
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
+    # https://squidfunk.github.io/mkdocs-material/reference/code-blocks/
+    - pymdownx.highlight
+    - pymdownx.inlinehilite
+    - pymdownx.superfences
+    - pymdownx.snippets
+    # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true
+    # https://squidfunk.github.io/mkdocs-material/reference/data-tables/
+    - tables
+    # https://squidfunk.github.io/mkdocs-material/reference/footnotes/
+    - footnotes
+    # https://squidfunk.github.io/mkdocs-material/reference/formatting/
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde
+    # https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    # https://squidfunk.github.io/mkdocs-material/reference/images/
+    - attr_list
+    - md_in_html
+    # https://squidfunk.github.io/mkdocs-material/reference/lists/
+    - def_list
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    # https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/
+    - pymdownx.magiclink
+    # https://facelessuser.github.io/pymdown-extensions/extensions/smartsymbols/
+    - pymdownx.smartsymbols
+    # https://github.com/mbarkhau/markdown-katex
+    - markdown_katex:
+        no_inline_svg: True
+        insert_fonts_css: True
+    # https://github.com/fralau/mkdocs-mermaid2-plugin
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:mermaid2.fence_mermaid
+
+nav:
+    - '': 'index.md'
+    - 项目背景: 'section/background.md'
+    - 项目启动: 'section/initiate.md'
+    - 项目规划: 'section/plan.md'
+    - 项目执行: 'section/execute.md'
+    - 项目监控: 'section/monitor.md'
+    - 项目收尾: 'section/close.md'
+    - 项目总结: 'section/conclusion.md'
+    - 参考文献: 'section/reference.md'
