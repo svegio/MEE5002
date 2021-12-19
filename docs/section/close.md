@@ -1,7 +1,7 @@
 # 项目收尾
 ![](../static/image/c-1.jpg){ width="75%" }
 
-项目收尾主要用于存档项目与阶段信息，完成计划的工作，释放组织资源以开展新的工作。通过这次项目管理 Project，我们学到了很多知识，同时也摸索出了一系列实用的工具，可以将原先繁琐的项目管理流程规范化、简单化。
+项目收尾主要用于存档项目与阶段信息，完成计划的工作，释放组织资源以开展新的工作。通过此次项目管理 Project，我们学到了很多知识，同时也摸索出了一系列实用的工具，可以将原先繁琐的项目管理流程规范化、简单化。
 
 ## 版本控制
 一个项目可能需要迭代十几版，甚至几十版才能最终交付，因此版本控制对于项目来说至关重要，所以我们小组采用 [GitHub](http://github.com/svegio/MEE5002) 对此次项目进行了托管，并对其辅助项目完成的各项功能进行学习与掌握。例如我们的项目就采用了 [GitHub Project Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) 进行规划。
