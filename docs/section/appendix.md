@@ -12,3 +12,9 @@
     - 保持现有条件即可
     - 都不合适
 7. 不吐不快，你对工学院设施，场地分配有什么吐糟（非必填项）
+
+
+## 在线资源
+- [GitHub 仓库](https://github.com/svegio/MEE5002)
+- [在线展示页面](https://svegio.github.io/)
+- [报告打印页](https://svegio.github.io/print_page/)
