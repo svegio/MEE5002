@@ -8,4 +8,4 @@
 - [x] [项目收尾](docs/section/close.md)
 - [ ] [项目总结](docs/section/conclusion.md)
 - [x] [参考资料](docs/section/reference.md)
-- [ ] [附录](docs/section/appendix.md)
+- [x] [附录](docs/section/appendix.md)
