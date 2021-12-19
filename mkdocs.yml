@@ -13,6 +13,8 @@ extra_css:
 
 plugins:
     - search
+    - markmap:
+        encoding: utf-8
     - print-site:
         add_to_navigation: true
         print_page_title: '打印页'

@@ -10,6 +10,7 @@ mkdocs = "^1.2.3"
 markdown-katex = "^202112.1034"
 mkdocs-print-site-plugin = "^2.2"
 mkdocs-mermaid2-plugin = "^0.5.2"
+mkdocs-markmap = "^2.2.0"
 
 [tool.poetry.dev-dependencies]
 

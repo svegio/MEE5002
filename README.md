@@ -6,6 +6,6 @@
 - [ ] [项目执行](docs/section/execute.md)
 - [x] [项目监控](docs/section/monitor.md)
 - [x] [项目收尾](docs/section/close.md)
-- [ ] [项目总结](docs/section/conclusion.md)
+- [x] [项目总结](docs/section/conclusion.md)
 - [x] [参考资料](docs/section/reference.md)
 - [x] [附录](docs/section/appendix.md)
