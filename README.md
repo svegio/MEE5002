@@ -22,6 +22,8 @@
     <br />
     <a href="https://svegio.github.io">View Demo</a>
     ·
+    <a href="https://github.com/svegio/MEE5002/wiki">Explore Wiki</a>
+    ·
     <a href="https://github.com/svegio/MEE5002/issues">Report Bug</a>
     ·
     <a href="https://github.com/svegio/MEE5002/issues">Request Feature</a>
