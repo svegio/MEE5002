@@ -111,7 +111,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 3. Start the preview server
    ```sh
-   poetry run python -m mkdocs serve
+   poetry run mkdocs serve
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
