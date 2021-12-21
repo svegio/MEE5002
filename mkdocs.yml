@@ -1,6 +1,8 @@
 site_name: 项目管理基础与实践
 
 theme:
+    logo: static/image/logo.png
+    favicon: static/image/logo.png
     name: material
     features:
         - navigation.tabs
