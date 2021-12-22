@@ -1,1 +1,2 @@
+- [Helpful Ideas](ideas.md)
 - [Useful Tools](tools.md)

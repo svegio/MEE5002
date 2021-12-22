@@ -15,3 +15,8 @@ Useful Tools
 - Others
     - [graphviz](https://gitlab.com/graphviz/graphviz): Graph Visualization Tools
     - [gnuplot](https://sourceforge.net/p/gnuplot/gnuplot-main/merge-requests/): A portable, multi-platform, command-line driven graphing utility
+
+
+## Collaboration-related tools
+- [Web File Browser](https://github.com/filebrowser/filebrowser): provide a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit your files
+- [CodiMD](https://github.com/hackmdio/CodiMD): realtime collaborative markdown notes on all platforms
