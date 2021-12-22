@@ -1,8 +1,8 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+![GitHub](https://img.shields.io/badge/GitHub-%F0%9F%A4%8D-orange.svg?style=for-the-badge)
 [![Stargazers][stars-shield]][stars-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache License 2.0][license-shield]][license-url]
 
