@@ -1,8 +1,16 @@
 [tool.poetry]
 name = "MEE5002"
-version = "0.1.0"
+version = "1.0"
 description = "项目管理基础与实践"
-authors = ["Iydon Liang <liangiydon@gmail.com>"]
+authors = [
+  "Iydon Liang  <12132274@mail.sustech.edu.cn>",
+  "Hui Gao      <12132508@mail.sustech.edu.cn>",
+  "Peiyao Wang  <12132298@mail.sustech.edu.cn>",
+  "Shixiang Liu <12132279@mail.sustech.edu.cn>",
+  "Yufan Xiao   <12132306@mail.sustech.edu.cn>",
+  "Yong Guo     <12132258@mail.sustech.edu.cn>",
+  "Zhiyuan Wang <12132300@mail.sustech.edu.cn>"
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
